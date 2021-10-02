@@ -31,4 +31,5 @@ For F401 you need to attach the pinout from connectors and my board in proper wa
 
 The code and hex files are free.
 But the software have licenfe for 10$, see: https://www.facebook.com/EMCDeveloper/
+
 So the total build cost: boards about 5$ x 2 and software 10$ its equal to 20$.
