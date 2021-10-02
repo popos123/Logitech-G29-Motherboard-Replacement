@@ -32,3 +32,19 @@ The code and hex files are free.
 But the software have licenfe for 10$, see: https://www.facebook.com/EMCDeveloper/
 
 So the total build cost: boards about 5$ x 2 and software 10$ its equal to 20$.
+
+For 2 x F103 version you only need to download:
+- EMCUtility106.exe
+- G29.png
+- EMCF103.106.hex
+- G29emu.bin
+- schematic_G29.png
+- https://www.st.com/en/development-tools/stsw-link004.html
+
+For F103 and F401 version:
+- EMCUtility_1.07.exe
+- G29.png
+- EMCF401CCU6.hex
+- G29emu.bin
+- Schematic_F401C_v1.07.pdf (you need to check the pinout - is different than F103)
+- https://www.st.com/en/development-tools/stsw-link004.html
