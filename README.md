@@ -15,3 +15,6 @@ Simple:
 2. Upload the hex from this repository to the my emulator board - G29emu
 
 To bulid a code just use the Arduino ide and paste a code from main.cpp and attach the libraries. You can use platform io too.
+
+Simple presentation of the working system:
+https://youtu.be/wHjuSKlw6mE
