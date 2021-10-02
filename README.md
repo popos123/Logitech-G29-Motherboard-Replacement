@@ -13,16 +13,20 @@ What you need:
 Simple:
 (if you are using STM32 prefer to uplada a code via ST Link using ST Link Utility)
 1. Upload the hex from the my repository to the one board controlling - EMC software.
-2. Upload the hex from this repository to the my emulator board - G29emu
+2. Upload the hex from this repository to the my emulator board - G29emu.
+3. Connect as it shown on the schematic respectively for F103 or F401.
 
 To bulid a code just use the Arduino ide and paste a code from main.cpp and attach the libraries. You can use platform io too.
 
 Simple presentation of the working system:
 https://youtu.be/wHjuSKlw6mE
 
-In F103 version the Play Station button is centering the wheel, in F401 there is no option yet (1.07 software)
+In F103 version the Play Station button is centering the wheel, in F401 there is no option yet (1.07 software).
+
 In F103 is a bug in software - EEPROM doesnt work properly, need to run software every reset / turn off the steering wheel.
+
 So in version 1.07 is working EEPROM but no centering button, but in version 1.06 is opposite.
+
 For F401 you need to attach the pinout from connectors and my board in proper way - see in schematic from EMC Software.
 
 The code and hex files are free.
