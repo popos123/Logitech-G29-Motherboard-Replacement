@@ -23,3 +23,7 @@ https://youtu.be/wHjuSKlw6mE
 In F103 version the Play Station button is centering the wheel, in F401 there is no option yet (1.07 software)
 In F103 is a bug in software - EEPROM doesnt work properly, need to run software every reset / turn off the steering wheel.
 So in version 1.07 is working EEPROM but no centering button, but in version 1.06 is opposite.
+For F401 you need to attach the pinout from connectors and my board in proper way - see in schematic from EMC Software.
+
+The code and hex files are free.
+But the software have licenfe for 10$, see: https://www.facebook.com/EMCDeveloper/
