@@ -32,8 +32,8 @@ The code and hex files are free.
 But the software have licenfe for 10$, see: https://www.facebook.com/EMCDeveloper/
 
 So the total build cost: boards about 5$ x 2 and software 10$ its equal to 20$.
-
-
+ 
+ 
 For 2 x F103 version you only need to download:
 - EMCUtility106.exe
 - G29.png
