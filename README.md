@@ -11,6 +11,7 @@ What you need:
 - couple wires :)
 
 Simple:
+(if you are using STM32 prefer to uplada a code via ST Link using ST Link Utility)
 1. Upload the hex from the my repository to the one board controlling - EMC software.
 2. Upload the hex from this repository to the my emulator board - G29emu
 
