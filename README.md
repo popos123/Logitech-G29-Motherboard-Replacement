@@ -21,9 +21,8 @@ To bulid a code just use the Arduino ide and paste a code from main.cpp and atta
 Simple presentation of the working system:
 https://youtu.be/wHjuSKlw6mE
 
-In F103 version the Play Station button is centering the wheel, in F401 there is no option yet (1.07 software).
-
-In F103 is a bug in software - EEPROM doesnt work properly, need to run software every reset / turn off the steering wheel.
+- In F103 version the Play Station button is centering the wheel, in F401 there is no option yet (1.07 software).
+- In F103 is a bug in software - EEPROM doesnt work properly, need to run software every reset / turn off the steering wheel.
 
 So in version 1.07 is working EEPROM but no centering button, but in version 1.06 is opposite.
 
