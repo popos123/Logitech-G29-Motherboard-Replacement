@@ -1,0 +1,28 @@
+Piny Magnetometr
+MISO - niebieski - 14 [pa6]
+SCLK - pomaranczowy - 15 [pa5]
+CS - zolty - 10 [pa4]
+MOSI - zielony - 16 [pa7]
+
+Piny Guziki - kiera
+Czerwony - 5V
+Zielony - SH/LD [pc14]
+Niebieski - RCLK - 595 (SH_CP - 12) [pb11]
+Pomarańcz - CLK (SRCLK - 11) [pc13]
+Biały - SI - 595 (DS - 14) [pb10]
+Żółty - SO - 195 [pc15]
+Czarny - GND
+
+shifter
+czarny - gnd
+czerwony + fioletowy - 3.3V
+niebieski - pb0
+żółty - PA7
+pomarańczowy - PA6
+
+pedały
+czarny - gnd
+brązowy + zielony - 3.3V
+żółty - acc - pa2
+pomarańczowy - break - pa3
+czerwony - clutch - pa4
