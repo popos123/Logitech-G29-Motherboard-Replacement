@@ -50,3 +50,8 @@ For F103 and F401 version:
 - G29emu.bin
 - Schematic_F401C_v1.07.pdf (you need to check the pinout - is different than F103)
 - https://www.st.com/en/development-tools/stsw-link004.html
+
+---
+UPDATE
+
+I was added the updated firmware for F401, and VirtualBox VM. You can simply extract the "EMC_software_VM_VirtulBox.7z" file and add to VirtualBox extracted files as existing VM to test a full version of the software in VM.
